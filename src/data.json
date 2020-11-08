@@ -1,0 +1,70 @@
+{
+  "ModuloOrigen": "GTH",
+  "Proceso": "Nómina por pagar",
+  "Documentos": [
+    {
+      "Tipo": "NP",
+      "IdentificacionTercero": "830021894",
+      "Libro": 1,
+      "Fecha": "06/10/2020",
+      "Descripcion": "Nómina por pagar - Id Medio: dab2b978-ddfa-4af1-9665-79473c465417",
+      "Referencia": "dab2b978-ddfa-4af1-9665-79473c465417",
+      "Movimientos": [
+        {
+          "CuentaContable": "510515",
+          "CentroCostos": "572",
+          "Tercero": "1019071547",
+          "Descripcion": "P26",
+          "Debito": 150000,
+          "Credito": 0,
+          "BaseImpuesto": 0
+        },
+        {
+          "CuentaContable": "250501",
+          "CentroCostos": "572",
+          "Tercero": "1019071547",
+          "Descripcion": "CXPN",
+          "Debito": 0,
+          "Credito": 1325644,
+          "BaseImpuesto": 0
+        },
+        {
+          "CuentaContable": "51050601",
+          "CentroCostos": "572",
+          "Tercero": "1019071547",
+          "Descripcion": "P01",
+          "Debito": 1245218,
+          "Credito": 0,
+          "BaseImpuesto": 0
+        },
+        {
+          "CuentaContable": "237007",
+          "CentroCostos": "572",
+          "Tercero": "800229739",
+          "Descripcion": "D02",
+          "Debito": 0,
+          "Credito": 52808,
+          "BaseImpuesto": 0
+        },
+        {
+          "CuentaContable": "51054502",
+          "CentroCostos": "572",
+          "Tercero": "1019071547",
+          "Descripcion": "P607",
+          "Debito": 36042,
+          "Credito": 0,
+          "BaseImpuesto": 0
+        },
+        {
+          "CuentaContable": "237005",
+          "CentroCostos": "572",
+          "Tercero": "860066942",
+          "Descripcion": "D01",
+          "Debito": 0,
+          "Credito": 52808,
+          "BaseImpuesto": 0
+        }
+      ]
+    }
+  ]
+}
